@@ -17,5 +17,5 @@ PineConeLocal/downloaded_images/
 frontend/neytiri-frontend/downloaded_images/
 PineConeLocal/downloaded_images2/
 scrapped_images
-backend/env/
+backend/env/*
 backend/__pycache__/
