@@ -31,7 +31,7 @@ navigate to the backend repository, create a virtual python enviroment.
 
 Activate the enviroment
 
-`src/Scripts/activate`
+`env/Scripts/activate`
 
 Navigate to the file of requirements.txt and run
 Install Backend dependancies using
