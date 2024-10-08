@@ -26,7 +26,7 @@ How it works?
 ![Alt text](./AssetsREADME/Diagram2.png)  
 
 
-##Tech Stack
+##Tech Stack   
 -Langchain Openai for prompt,history processing.  
 -Clip model for embeddings,Pinecone for vector database.    
 -FastAPI for backend.
