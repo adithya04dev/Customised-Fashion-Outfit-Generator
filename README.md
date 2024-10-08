@@ -5,9 +5,12 @@ Example:
 
 Screenshots:
 Prompt ->Outfit
-![Alt text](./AssetsREADME/image-1.png)   
+![Alt text](./AssetsREADME/image-1.png)       
+   
 Suggesting changes   
-![Alt text](./AssetsREADME/image-2.png)     
+![Alt text](./AssetsREADME/image-2.png)          
+
+    
 ![Alt text](./AssetsREADME/image-3.png)     
 
 
